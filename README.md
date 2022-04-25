@@ -1,1 +1,1 @@
-{ "versionCode": "2", "url": "https://www.mediafire.com/file/osg2u5cddob7bei/TECHNET_VPN_PRO.apk/file", "Message": "TECHNET VPN PRO\n(Powered By : TechNet VPN)\n\nTo All Users💚💚\n\nPlease Update Your TECHNET VPN PRO...\n\nThank You For Being With Us💚❤️" }\n\n
+{ "versionCode": "3", "url": "https://www.mediafire.com/file/osg2u5cddob7bei/TECHNET_VPN_PRO.apk/file", "Message": "TECHNET VPN PRO\n(Powered By : TechNet VPN)\n\nTo All Users💚💚\n\nPlease Update Your TECHNET VPN PRO...\n\nThank You For Being With Us💚❤️" }\n\n
